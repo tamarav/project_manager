@@ -1,3 +1,0 @@
-*.php -text
-*.csproj -text merge=union 
-*.sln -text merge=union 
