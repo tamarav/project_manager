@@ -2,10 +2,10 @@
 The System for managing projects
 
 Environment:
-	- PHP
-	- MySQL
-	- Framework : Yii
-	- GUI - C#
+- PHP
+- MySQL
+- Framework : Yii
+- GUI - C#
 
 Short description:
 - Each project has participants, boss and control
